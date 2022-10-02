@@ -1,0 +1,51 @@
+.section4
+{
+    //border: 1px solid red;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    //gap: 20px;
+    font-family: Montserrat;
+}
+.why
+{
+    //border: 1px solid blue;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding: 50px;
+    
+}
+.why h1
+{
+    font-size: 2.5em;
+    padding-bottom: 15px;
+}
+.why img
+{
+    padding-bottom: 15px;
+}
+.why p
+{
+    font-size: 15px;
+    color: #86878B;
+}
+.privalumas
+{
+    //border: 1px solid green;
+    width: 25%;
+    height: 350px;
+    text-align: center;
+    padding: 40px;
+    margin: 25px;
+}
+.privalumas img
+{
+    padding-bottom: 30px;
+}
+.privalumas h3
+{
+    padding-bottom: 30px;
+}

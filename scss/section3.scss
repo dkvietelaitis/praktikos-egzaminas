@@ -1,0 +1,48 @@
+.section3
+{
+    width: 100%;
+    height: 600px;
+    background: #1C1C1C;
+    display: flex;
+    align-items: center;
+    
+}
+.logo2
+{
+    //border: 1px solid red;
+    width: 50%;
+    text-align: center;
+}
+#logo2
+{
+    width: 50%;
+}
+.text
+{
+    //border: 1px solid green;
+    width:40%;
+    color: white;
+    font-family: Montserrat;
+    text-align: left;
+    
+}
+.text h1
+{
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    font-family: Montserrat;
+}
+.text p
+{
+    margin-top: 20px;
+}
+
+.title img
+{
+    float: left;
+    margin-right: 15px;
+}
+.title p
+{
+    margin-left: 10px;
+}

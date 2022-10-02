@@ -1,0 +1,191 @@
+@media (max-width: 768px){
+    
+    .nav
+    {
+        width: 768px;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        justify-content: space-evenly;
+        .links a
+        {
+            width: 650px;
+            margin-right: 10px;
+        }
+        .logo
+        {
+            margin-left: 10px;
+        }
+        position: fixed;
+    }
+    .section1
+    {
+        width: 768px;
+        height: 650px;
+        flex-direction: column;
+        .intro
+        {
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-items: center;
+            padding: 0;
+            margin: auto;
+        }
+        .download
+        {
+            width: 150px;
+            height: 50px;
+        }
+        .logo2
+        {
+            display: none;
+
+        }
+        h2
+        {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        .dash
+        {
+            display: none;
+        }
+        .form1
+        {
+            margin: auto;
+        }
+    }
+    .social
+    {
+        width: 768px;
+    }
+    .section2
+    {
+        width: 768px;
+        //height: 100%;
+        flex-direction: column;
+        align-items: center;
+        .buttons
+        {
+            flex-direction: row;
+            padding-top: 10px;
+            padding-bottom: 20px;
+        }
+        .tabs h1
+        {
+            font-size: 25px;
+        }
+        .tabs p
+        {
+            padding: 1px;
+        }
+        .tabs
+        {
+            height: 250px;
+
+        }
+        .gallery
+        {
+            width: 768px;
+            flex-direction: row;
+            
+        }
+    }
+    .section3
+    {
+        width: 768px;
+        height: 425px;
+        
+        .logo2
+        {
+            display: none;
+        }
+        .text
+        {
+            width: 768px;
+            padding-left: 10px;
+            flex-direction: row;
+            flex-wrap: wrap;
+            h1
+            {
+                font-size: 1.5em;
+            }
+
+        }
+    }
+    .section4
+    {
+        width: 768px;
+        height: 425px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        h1
+        {
+            font-size: 1.5em;
+        }
+        .why
+        {
+            height: 70px;
+            padding: 5px;
+            margin: 5px;
+
+        }
+        .privalumas
+        {
+           width: 200px;
+           height: 250px;
+           margin: 5px;
+           padding: 5px;
+        }
+    }
+    .section5
+    {
+        width: 768px;
+        height: 550px;
+        .pricing
+        {
+            h1
+            {
+                font-size: 1.5em;
+            }
+            padding: 10px;
+            height: 100px;
+        }
+        .price li
+        {
+           line-height: 20px;
+        }
+        .price
+        {
+            height: 400px;
+            margin: 5px;
+        }
+    }
+    .section6
+    {
+        width: 768px;
+        height: 300px;
+        .comments
+        {
+            height: 50px;
+            padding: 10px;
+            h1
+            {
+                font-size: 1.5em;
+                padding-bottom: 10px;
+            }
+        }
+    }
+    .section7
+    {
+        width: 768px;
+        height: 450px;
+        h1
+        {
+            padding: 10px;
+            font-size: 1.5em;
+        }
+    }
+}
